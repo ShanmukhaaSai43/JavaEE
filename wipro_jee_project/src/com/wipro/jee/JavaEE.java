@@ -20,7 +20,7 @@ public class JavaEE {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("JavaEE Project.");
+		System.out.println("JavaEE Project");
 	}
 
 }
